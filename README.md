@@ -1,0 +1,1 @@
+[![DevSync Daily Automated Update](https://github.com/JustAnotherDuck/TDS-W3/actions/workflows/daily_update.yml/badge.svg)](https://github.com/JustAnotherDuck/TDS-W3/actions/workflows/daily_update.yml)
